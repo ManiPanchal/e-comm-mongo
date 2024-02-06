@@ -1,0 +1,28 @@
+*{
+    text-align: center;}
+   #home{
+    border-radius: 5px;
+  background-color:rgb(184, 237, 237);
+  width:20%;
+  padding: 20px;
+  box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-left: 35%;
+  margin-top:10%;
+   }
+   h1{
+    padding:5px;
+   }
+  
+   a{
+  border-radius: 5px;
+  width:18%;
+  text-decoration: none;
+  color: black;
+  border:none;
+  background-color: rgb(91, 200, 200);
+  font-size: 17px;
+  padding: 12px;
+  margin:10px;
+  box-shadow:  0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
